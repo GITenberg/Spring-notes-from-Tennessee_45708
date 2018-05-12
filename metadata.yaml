@@ -1,0 +1,29 @@
+_repo: Spring-notes-from-Tennessee_45708
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45708-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Torrey, Bradford
+    birthdate: 1843
+    deathdate: 1912
+    gutenberg_agent_id: '3667'
+    url: http://www.gutenberg.org/2009/agents/3667
+description: ''
+gutenberg_issued: '2014-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45708'
+  lccn: rc01001282
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Natural history -- Outdoor books'
+- !lcsh 'Birds -- Tennessee'
+- !lcsh 'Tennessee -- Description and travel'
+title: Spring notes from Tennessee
+url: http://www.gutenberg.org/ebooks/45708
